@@ -18,7 +18,7 @@ const App = () => {
       <Work />
       <Services />
       <Contact />
-      <div className='h-[50px]'></div>
+      {/* <div className='h-[50px]'></div> */}
     </div>
   );
 };
